@@ -1,5 +1,5 @@
 
-package remuflow;
+
 
 abstract class Employee {
     private String name;
