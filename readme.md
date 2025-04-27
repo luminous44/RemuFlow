@@ -9,7 +9,6 @@
 - Add a Full-Time or Part-Time Employee
 - Remove an Employee by ID
 - Display All Employees
-- Connects seamlessly with MySQL database
 - Simple Console UI
 
 ---
@@ -22,4 +21,4 @@
 git clone https://github.com/luminous44/RemuFlow.git 
 
 ```
-
+Or download the ZIP file manually from [here](https://github.com/luminous44/RemuFlow/archive/refs/heads/main.zip). 
