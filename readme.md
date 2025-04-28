@@ -9,6 +9,7 @@
 - Add a Full-Time or Part-Time Employee
 - Remove an Employee by ID
 - Display All Employees
+- Display all active hours
 - Simple Console UI
 
 ---
